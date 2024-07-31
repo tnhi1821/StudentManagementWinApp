@@ -30,3 +30,7 @@
   - Grant appropriate access rights for each user type.
 
 ## 2. Database Schema Design
+![](https://github.com/tnhi1821/StudentManagementWinApp/blob/main/Images%20source/database.png)
+
+## 3. Interface Design
+### Screen Flow Diagram
